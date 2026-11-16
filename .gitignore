@@ -1,0 +1,16 @@
+.DS_Store
+
+node_modules/
+build/
+coverage/
+
+.env
+.env.*
+!.env.example
+
+/backend/socialai/conf/deploy.yml
+
+*.pem
+*.key
+*.exe
+*.test
